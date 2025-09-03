@@ -57,6 +57,40 @@ auth-app/
 │── README.txt
 
 ----------------------------------------
+📝 Procedure (How Auth-App Works)
+----------------------------------------
+
+1. Open the project in your browser:
+   http://localhost/auth-app/
+
+2. Register a new account:
+   - Go to register.php
+   - Enter your name, email, and password
+   - Data is saved into the MySQL database with a hashed password
+
+3. Login:
+   - Go to login.php
+   - Enter your registered email and password
+   - If credentials are correct, a session starts and you are logged in
+
+4. Access protected pages:
+   - After login, you can visit restricted pages that check if a session exists
+   - If not logged in, you will be redirected back to login.php
+
+5. Logout:
+   - Go to logout.php
+   - Session is destroyed and you are logged out safely
+   - Redirected back to the login page
+
+----------------------------------------
+⚙️ Behind the Scenes
+----------------------------------------
+- db.php connects the app to MySQL and manages sessions
+- register.php handles new user creation
+- login.php verifies user credentials against the database
+- logout.php clears the session and ends the login
+- Passwords are never stored as plain text (only secure hashes)
+----------------------------------------
 📬 Contact
 ----------------------------------------
 👨‍💻 Author: Mesum Mukhtar  
