@@ -94,7 +94,7 @@ auth-app/
 📬 Contact
 ----------------------------------------
 👨‍💻 Author: Mesum Mukhtar  
-📧 Email: mesummukhtar47@gmail.com  
 🐱 GitHub: https://github.com/codewithMeesum  
 
+📧 Email: mesummukhtar3@gmail.com  
 ----------------------------------------
