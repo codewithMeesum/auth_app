@@ -64,13 +64,3 @@ auth-app/
 🐱 GitHub: https://github.com/codewithMeesum  
 
 ----------------------------------------
-# 📊 Auth-App GitHub Stats
-
-![Auth-App Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=codewithMeesum&repo=auth-app&theme=dark&hide_border=false)<br/>
-![Mesum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithMeesum&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Mesum's GitHub Streak](https://streak-stats.demolab.com?user=codewithMeesum&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithMeesum&theme=dark&hide_border=false&layout=compact&langs_count=6&hide=html)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=auth-app&icon=0&color=0)](https://visitcount.itsvg.in)
